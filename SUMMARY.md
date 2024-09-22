@@ -12,3 +12,4 @@
 * [Externalizing configuration](externalizing-configuration.md)
 * [UI](ui/README.md)
   * [Sharing The Layout](ui/sharing-the-layout.md)
+* [License](license.md)
