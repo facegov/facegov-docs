@@ -100,6 +100,10 @@ We're excited to have you on board as we work towards a more transparent and acc
 
 
 
+{% content-ref url="license.md" %}
+[license.md](license.md)
+{% endcontent-ref %}
+
 ### Related Projects
 
 * [https://github.com/facegov/facegov-frontend](https://github.com/facegov/facegov-frontend)
