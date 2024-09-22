@@ -67,18 +67,18 @@ FaceGov utilizes a robust and scalable tech stack to handle the complexities of 
 
 
 
-{% content-ref url="welcome-to-facegov/project-structure.md" %}
-[project-structure.md](welcome-to-facegov/project-structure.md)
+{% content-ref url="project-structure.md" %}
+[project-structure.md](project-structure.md)
 {% endcontent-ref %}
 
 #### Setting Up Your Development Environment
 
-{% content-ref url="welcome-to-facegov/ui/" %}
-[ui](welcome-to-facegov/ui/)
+{% content-ref url="ui/" %}
+[ui](ui/)
 {% endcontent-ref %}
 
-{% content-ref url="welcome-to-facegov/aws/" %}
-[aws](welcome-to-facegov/aws/)
+{% content-ref url="aws/" %}
+[aws](aws/)
 {% endcontent-ref %}
 
 #### Learning Resources
