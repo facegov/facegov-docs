@@ -2,6 +2,7 @@
 
 * [Welcome to FaceGov](README.md)
 * [AWS](aws/README.md)
+  * [Event Driven Modeling Documentation](aws/event-driven-modeling-documentation.md)
   * [Lambdas](aws/lambdas/README.md)
     * [CICD](aws/lambdas/cicd/README.md)
       * [Lambda Deployment Pipeline](aws/lambdas/cicd/lambda-deployment-pipeline.md)
