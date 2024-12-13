@@ -10,6 +10,7 @@
     * [Lambda Local Dev](aws/lambdas/lambda-local-dev.md)
     * [Local Run](aws/lambdas/local-run.md)
 * [Project Structure](project-structure.md)
+* [S3 Structure](s3-structure.md)
 * [Externalizing configuration](externalizing-configuration.md)
 * [UI](ui/README.md)
   * [Sharing The Layout](ui/sharing-the-layout.md)
